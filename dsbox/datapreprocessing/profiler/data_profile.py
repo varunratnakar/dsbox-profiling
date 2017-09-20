@@ -5,8 +5,8 @@ import time
 import numpy as np
 
 # from feature computation functions
-import feature_compute_lfh as fc_lfh
-import feature_compute_hih as fc_hih
+import dsbox.datapreprocessing.profiler.feature_compute_lfh as fc_lfh
+import dsbox.datapreprocessing.profiler.feature_compute_hih as fc_hih
 from collections import defaultdict
 
 
